@@ -12,6 +12,8 @@
         <a href="https://github.com/getanteon/anteon/blob/master/LICENSE" target="_blank"><img src="https://img.shields.io/badge/LICENSE-AGPL--3.0-orange?style=for-the-badge&logo=none" alt="Anteon license" /></a>
         <a href="https://discord.com/invite/9KdnrSUZQg" target="_blank"><img src="https://img.shields.io/discord/898523141788287017?style=for-the-badge&logo=discord&label=DISCORD" alt="Anteon discord server" /></a>
         <a href="https://landscape.cncf.io/?item=observability-and-analysis--observability--anteon" target="_blank"><img src="https://img.shields.io/badge/CNCF%20Landscape-5699C6?style=for-the-badge&logo=cncf&label=cncf" alt="cncf landscape" /></a>
+        <a href="https://gurubase.io/g/anteon" target="_blank"><img alt="Anteon Guru" src="https://img.shields.io/badge/Anteon%20Guru-F40003?style=for-the-badge&label=Gurubase&color=%23006BFF">
+</a>
     </p>
     <i>Anteon automatically generates Service Map of your K8s cluster without code instrumentation or sidecars. So you can easily find the bottlenecks in your system. Red lines indicate the high latency between services.</i>
 </p>
@@ -59,7 +61,12 @@
 - [🔎 Kubernetes Monitoring](https://getanteon.com/docs/kubernetes-monitoring/)
 - [🔨 Performance Testing](https://getanteon.com/docs/performance-testing/)
 
-## ✨ About This Repository
+## ✨ Ask Anteon Guru
+If you don’t want to get lost in the documentation, you can ask [Anteon Guru](https://gurubase.io/g/anteon) directly. It's an Anteon-focused AI that uses information from the Anteon Website and Anteon GitHub Repository to answer your questions.
+
+<a href="https://gurubase.io/g/anteon" target="_blank"><img alt="Anteon Guru" src="https://img.shields.io/badge/ASK%20ANTEON%20GURU-F40003?color=%23006BFF&style=for-the-badge"></a>
+
+## ℹ️ About This Repository
 
 This repository includes the source code for the Anteon Load Engine (Ddosify). You can access Docker Images for the Anteon Engine and Self Hosted on <a href="https://hub.docker.com/u/ddosify" target="_blank">Docker Hub</a>. Since Anteon is a Verified Publisher on Docker Hub, there isn't any pull limits.
 
